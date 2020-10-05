@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">Test2</string>
     <string name="test">This is a test</string>
+    <string name="test2">Commit from android studio</string>
 </resources>
